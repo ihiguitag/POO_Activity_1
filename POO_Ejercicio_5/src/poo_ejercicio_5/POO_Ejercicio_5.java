@@ -6,7 +6,7 @@ package poo_ejercicio_5;
 
 /**
  *
- * @author user
+ * @author Isabel Higuita Giraldo
  */
 
 /**
@@ -27,9 +27,6 @@ package poo_ejercicio_5;
 
 public class POO_Ejercicio_5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         
         double SUMA, X, Y;
