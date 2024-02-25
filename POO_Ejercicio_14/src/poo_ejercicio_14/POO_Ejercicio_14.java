@@ -17,9 +17,6 @@ package poo_ejercicio_14;
 
 public class POO_Ejercicio_14 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
 
         double numero, cuadrado, cubo;
