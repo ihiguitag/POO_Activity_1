@@ -6,7 +6,7 @@ package poo_ejercicio_4;
 
 /**
  *
- * @author user
+ * @author Isabel Higuita Giraldo
  */
 
 /**
@@ -19,10 +19,6 @@ package poo_ejercicio_4;
  */
 
 public class POO_Ejercicio_4 {
-
-    /**
-     * @param args the command line arguments
-     */
     
     public static void main(String[] args) {
         
